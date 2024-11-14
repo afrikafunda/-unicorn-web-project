@@ -44,7 +44,3 @@
 
 </body>
 </html>
-
-git remote add origin https://github.com/afrikafunda/-unicorn-web-project.git
-git branch -M main
-git push -u origin main
